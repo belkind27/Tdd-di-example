@@ -1,0 +1,9 @@
+{
+  "posts": {
+    "basePath": "https://jsonplaceholder.typicode.com/users"
+  },
+  "users": {
+    "basePath": "https://jsonplaceholder.typicode.com/users"
+  },
+  "port": 8080
+}
